@@ -68,13 +68,13 @@ The following models were trained and evaluated:
 
 | Model               | Accuracy  | ROC-AUC   |
 | ------------------- | --------- | --------- |
-| Logistic Regression | **81.5%** | **0.861** |
-| Random Forest       | 79.7%     | 0.837     |
-| Gradient Boosting   | 80.6%     | 0.858     |
-| XGBoost             | 79.4%     | 0.836     |
-| Neural Network      | 81.3%     | 0.856     |
+| Logistic Regression | 80.55%    | 0.841     |
+| Random Forest       | 77.8%     | 0.817     |
+| Gradient Boosting   | 80.55%    | 0.845     |
+| XGBoost             | 79.7%     | 0.839     |
+| Neural Network      | 78.9%     | 0.838     |
 
-🏆 **Best Model:** Logistic Regression
+🏆 **Best Model:** Gradient Boosting
 
 ---
 
@@ -151,15 +151,6 @@ Customer-Churn-Prediction/
 * E-commerce
 * SaaS Platforms
 * Subscription-based Businesses
-
----
-
-## 🤝 Team Members
-
-* Saswat Mohapatra
-* Somen Senapati
-* Abhijit Sengupta
-* Anurag Singh
 
 ---
 
